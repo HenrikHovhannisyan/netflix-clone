@@ -16,31 +16,31 @@ import card_img14 from "./../assets/cards/card14.jpg";
 const cards_data = [
   {
     image: card_img1,
-    name: "Kung Fu Panda",
+    name: "The Boss Baby",
   },
   {
     image: card_img2,
-    name: "Squid Game",
+    name: "Miraculous World: Shanghai, The Legend of LadyDragon",
   },
   {
     image: card_img3,
-    name: "Squid Challange",
+    name: "Sonic the Hedgehog",
   },
   {
     image: card_img4,
-    name: "Jawan",
+    name: "Ticket to Paradise",
   },
   {
     image: card_img5,
-    name: "The Ghost",
+    name: "Woody Woodpecker Goes to Camp",
   },
   {
     image: card_img6,
-    name: "Lucifer",
+    name: "Leo",
   },
   {
     image: card_img7,
-    name: "The Railway MEN",
+    name: "A Family Affair",
   },
   {
     image: card_img8,
@@ -48,27 +48,27 @@ const cards_data = [
   },
   {
     image: card_img9,
-    name: "Sacred Games",
+    name: "The Secret Life of Pets",
   },
   {
     image: card_img10,
-    name: "Adipurush",
+    name: "Sonic the Hedgehog 2",
   },
   {
     image: card_img11,
-    name: "Sukhee",
+    name: "Dr. Seuss' The Grinch",
   },
   {
     image: card_img12,
-    name: "Mission Ganj",
+    name: "Leave the World Behind",
   },
   {
     image: card_img13,
-    name: "Leo",
+    name: "The Mother",
   },
   {
     image: card_img14,
-    name: "All of Us Are Dead",
+    name: "Damsel",
   },
 ];
 
