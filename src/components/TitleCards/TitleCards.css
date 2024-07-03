@@ -37,3 +37,38 @@
     display: none;
   }
 }
+
+@media (max-width: 970px) {
+  .title-cards {
+    margin-top: 20px;
+    margin-bottom: 0;
+
+    h2 {
+      font-size: 20px;
+    }
+
+    .card-list .card img {
+      width: 200px;
+    }
+
+    .card-list .card p {
+      font-size: 12px;
+    }
+  }
+}
+
+@media (max-width: 500px) {
+  .title-cards {
+    h2 {
+      font-size: 15px;
+    }
+
+    .card-list .card img {
+      width: 165px;
+    }
+
+    .card-list .card p {
+      font-size: 10px;
+    }
+  }
+}
