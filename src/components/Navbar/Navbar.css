@@ -66,9 +66,10 @@
       z-index: 1;
       display: none;
 
-      p {
+      a {
         font-size: 13px;
         cursor: pointer;
+        color: #ffffff;
       }
     }
 
@@ -80,4 +81,8 @@
   .navbar-profile:hover .dropdown {
     display: block;
   }
+}
+
+.nav-dark {
+  background-color: #141414;
 }
